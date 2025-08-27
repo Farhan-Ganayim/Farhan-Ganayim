@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I'm Farhan Ganayim — Full-Stack & Frontend Developer 👋  
+
+I’m a passionate Full-Stack Developer with hands-on experience building responsive, user-friendly web applications using **JavaScript, React, Node.js, and MongoDB**.  
+Graduated from an intensive Full-Stack Development bootcamp at **Coding Academy by MisterBit**, designed by the former Head of Training of the IDF’s elite Mamram unit.  
+
+⚡ During the program, I worked on **real-world, team-based projects** with weekly code reviews, Agile methodology, and modern best practices.  
+🚀 Some of my projects include a **freelance services platform**, an **email & notes app**, and collaborative **CRUD systems**.  
+
+💡 I love clean code, great UI/UX, and problem-solving. Always open to learning, collaborating, and sharing ideas!  
+
 
 <!--
 **Farhan-Ganayim/Farhan-Ganayim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
